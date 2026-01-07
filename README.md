@@ -1,4 +1,7 @@
-# Bilingual Multimodal Business RAG Chatbot System
+# Multimodal Business RAG Chatbot System
+
+<img width="1919" height="876" alt="image" src="https://github.com/user-attachments/assets/ca9bd198-6546-43d8-8763-e6e8d477642d" />
+
 
 A FastAPI-based multimodal Retrieval-Augmented Generation (RAG) chatbot that supports **text, image, and audio inputs** for business document question answering.
 
